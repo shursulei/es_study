@@ -1,0 +1,3 @@
+elasticsearch结合java_api使用
+1、java实现员工的增删改查。
+2、java实现复杂的搜索操作
